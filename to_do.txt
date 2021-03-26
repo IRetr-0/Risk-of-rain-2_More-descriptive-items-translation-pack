@@ -1,0 +1,9 @@
+Items(p) - 
+
+	Change the following items descriptions:
+		New Lunar Item: Hooks of Heresy
+		New Lunar Item: Essence of Heresy
+		New Boss Item: Empathy Cores
+		New Boss Item: Charged Perforator
+		New Boss Item: Planula
+		
